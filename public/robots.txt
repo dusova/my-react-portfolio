@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Block admin and private pages
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://mdusova.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Host
+Host: https://mdusova.com
