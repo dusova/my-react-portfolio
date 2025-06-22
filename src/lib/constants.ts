@@ -23,7 +23,7 @@ export const SITE_CONFIG = {
   ],
 }
 
-// Social links'i ayrı bir const olarak tanımlıyoruz
+// Sosyal bağlantıları ayrı bir const olarak tanımlıyoruz
 export const SOCIAL_LINKS = [
   {
     name: 'GitHub',
