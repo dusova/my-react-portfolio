@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
   name: 'Mustafa Arda Düşova',
-  description: 'UI/UX Tasarımcısı & Front-End Geliştirici | İstanbul',
+  description: 'Bilgisayar Programcılığı Öğrencisi | Yazılım Geliştirici & Grafik Tasarımcı | Silivri / İstanbul',
   url: 'https://mdusova.com',
   ogImage: '/og-image.png',
   links: {
@@ -8,8 +8,8 @@ export const SITE_CONFIG = {
     linkedin: 'https://linkedin.com/in/mdusova',
     instagram: 'https://instagram.com/mdusova',
     spotify: 'https://open.spotify.com/user/31e4wu2ua42rf5qvqaukgjwgz7tu',
-    email: 'info@mdusova.com',
-    phone: '+905307432239',
+    email: 'contact@mdusova.com',
+    phone: '+905437891563',
   },
   nav: [
     { title: 'Ana Sayfa', href: '/' },

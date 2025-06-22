@@ -145,7 +145,7 @@ export function Hero() {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-sm uppercase tracking-wider text-accent md:text-base"
             >
-              UI/UX Designer | Front-End Developer
+              Bilgisayar Programcılığı Öğrencisi | Yazılım Geliştirici & Grafik Tasarımcı
             </motion.p>
 
             <motion.h1
@@ -183,7 +183,7 @@ export function Hero() {
               className="text-gray-600 dark:text-gray-300"
             >
               Modern ve kullanıcı dostu web siteleri ve uygulamalar geliştiriyorum.
-              İstanbul'da yaşıyorum ve 5+ yıldır bu alanda çalışıyorum.
+              Silivri'de yaşıyorum ve 5+ yıldır yazılım ve tasarım alanlarında çalışıyorum.
             </motion.p>
 
             {/* Buttons */}

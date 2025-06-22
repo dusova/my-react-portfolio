@@ -84,8 +84,8 @@ export function About() {
           >
             <div className="prose prose-lg dark:prose-invert">
               <p>
-                Merhaba! Ben Mustafa Arda, İstanbul merkezli bir UI/UX Tasarımcısı ve Front-End Geliştiriciyim.
-                5 yılı aşkın süredir dijital dünyada kullanıcı deneyimi odaklı projeler geliştiriyorum.
+                Merhaba! Ben Mustafa Arda, Silivri / İstanbul merkezli bir yazılım geliştirici ve grafik tasarımcıyım.
+                5 yılı aşkın süredir teknoloji ve tasarım odaklı projeler geliştiriyorum.
               </p>
               <p>
                 Modern web teknolojileri ve tasarım prensiplerini kullanarak, hem estetik hem de fonksiyonel
