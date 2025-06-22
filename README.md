@@ -35,9 +35,7 @@ mdusova-portfolio/
 ├── public/
 │   ├── assets/
 │   │   ├── images/
-│   │   ├── files/
-│   │   ├── favicon/
-│   │   └── sounds/
+│   │   └── favicon/
 │   ├── robots.txt
 │   └── sitemap.xml
 ├── src/
@@ -166,6 +164,12 @@ npm run lint         # ESLint kontrolü
 npm run type-check   # TypeScript kontrolü
 npm run format       # Prettier ile formatla
 npm run analyze      # Bundle analizi
+```
+
+## 🧪 Testler
+
+```bash
+npm test
 ```
 
 ## 📱 PWA

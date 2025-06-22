@@ -321,9 +321,9 @@ export function Projects() {
           viewport={{ once: true }}
           className="text-center mt-16"
         >
-          <p className="text-gray-600 dark:text-gray-400 mb-4">
-            Tüm projelerimi GitHub'da inceleyebilirsiniz
-          </p>
+            <p className="text-gray-600 dark:text-gray-400 mb-4">
+              Tüm projelerimi GitHub&apos;da inceleyebilirsiniz
+            </p>
           <Button asChild variant="outline" size="lg">
             <a href="https://github.com/dusova" target="_blank" rel="noopener noreferrer">
               <Github className="mr-2 h-5 w-5" />
