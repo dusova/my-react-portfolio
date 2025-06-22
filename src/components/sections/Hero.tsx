@@ -183,7 +183,7 @@ export function Hero() {
               className="text-gray-600 dark:text-gray-300"
             >
               Modern ve kullanıcı dostu web siteleri ve uygulamalar geliştiriyorum.
-              Silivri'de yaşıyorum ve 5+ yıldır yazılım ve tasarım alanlarında çalışıyorum.
+              Silivri&apos;de yaşıyorum ve 5+ yıldır yazılım ve tasarım alanlarında çalışıyorum.
             </motion.p>
 
             {/* Buttons */}
